@@ -1,0 +1,6 @@
+{:path
+ ["src"]
+
+ :deps
+ {org.clojure/clojure {:mvn/version "1.9.0"}
+  io.djy/alda-clj {:mvn/version "0.3.3"}}}
